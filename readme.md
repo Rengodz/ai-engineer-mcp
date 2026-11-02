@@ -2,7 +2,7 @@
 
 <img src="./logo.jpg" alt="ai-engineer-mcp logo" width="300"/>
 
-# `ai-engineer-mcp` 🧠⚡
+# `ai-engineer-mcp` 
 > *The 100% offline, local Model Context Protocol (MCP) server that supercharges your coding agent with expert AI Engineering patterns, RAG architectures, and agentic code.*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
