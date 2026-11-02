@@ -87,5 +87,10 @@ Designed for edge hardware (`ai-engineer-mcp` ensures zero data leaks, blazing-f
 
 ---
 
+## 🙏 Acknowledgements
+A huge thank you to **Akshay Pachaar** and all contributors of the [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) repository for providing such an incredible baseline of AI engineering knowledge and reference patterns.
+
+---
+
 ## 📝 License
 Distributed under the MIT License. See `LICENSE` for more information.
