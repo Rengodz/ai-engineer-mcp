@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ai-engineering-hub-knowledge": {
+      "command": "python",
+      "args": [
+        "/ai-engineer-mcp/src/server.py"
+      ],
+      "env": {
+        "KNOWLEDGE_DB": "/ai-engineer-mcp/data/knowledge.db"
+      }
+    }
+  }
+}

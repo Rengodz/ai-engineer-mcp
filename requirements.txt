@@ -1,0 +1,3 @@
+mcp[cli]>=2.3,<3
+click
+pydantic
